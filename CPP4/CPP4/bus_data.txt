@@ -1,0 +1,5 @@
+1 kakamega 37 1200.00
+2 kitale 26 1500.00
+3 mombasa 47 2500.00
+4 kakamega 35 1200.00
+5 eldoret 39 1100.00

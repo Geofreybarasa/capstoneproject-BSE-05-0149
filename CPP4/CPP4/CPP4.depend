@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1699189463 source:c:\users\jairo\desktop\cpp4\cpp4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<unistd.h>
+	<windows.h>
+
